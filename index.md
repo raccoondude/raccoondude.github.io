@@ -4,4 +4,4 @@ Welcome to my docs site
 
 ## pgp
 
-``[PGP key](https://raccoondude.github.io/pgp)``
+``[PGP key](http://raccoondude.github.io/pgp "PGP key")``
